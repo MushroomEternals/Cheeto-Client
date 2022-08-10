@@ -12,3 +12,8 @@ RoseGoldAddons no longer uses timechanger modid, but instead it's own modid (tha
 
 Minor improvements to DungeonESP
 
+# New features
+
+Custom keybind item macros (Macros Tab)! Image of how the config looks included below. I do not recommend binding a left click macro to left click as it is basically attacking twice in the same frame Custom Mod ID hider (Misc Tab) Custom blacklist for no block animation features (Misc Tab) Toggle right click to AFK stun Thorn (Dungeons Tab) Bug Fixes:
+
+Box ESP style should no longer bug out Terminals should be more consistent ESP now works with Patcher's entity culling. More FPS
